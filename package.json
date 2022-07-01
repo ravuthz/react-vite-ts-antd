@@ -1,12 +1,33 @@
 {
   "name": "react-antd-ts",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "A NPM Package use to shared Ant Design component with react typescript",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravuthz/react-antd-ts.git"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "ts",
+    "javascript",
+    "react",
+    "typescript",
+    "antd",
+    "ant",
+    "design"
+  ],
+  "author": "Vannaravuth Yo <ravuthz@gmail.com> (https://ravuthz.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravuthz/react-antd-ts/issues"
+  },
+  "homepage": "https://github.com/ravuthz/react-antd-ts#readme",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
